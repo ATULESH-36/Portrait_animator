@@ -2,6 +2,8 @@
 
 Transform portrait photographs into artistic cartoon-style images using **Computer Vision**, **OpenCV**, and **Image Processing** techniques.
 
+[🚀 Try the Live App](https://portraitanimator-rmqkxckukllxlerezwurym.streamlit.app/)
+
 <p align="center">
   <img src="assets/demo.gif" width="800">
 </p>
