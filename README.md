@@ -84,7 +84,7 @@ Portrait_Cartoonifier/
 │
 ├── app.py
 ├── main.py
-├── config.py
+|
 ├── requirements.txt
 ├── README.md
 └── .gitignore
@@ -316,6 +316,3 @@ Please consider giving the repository a star.
 
 ---
 
-# 📜 License
-
-This project is released under the MIT License.
