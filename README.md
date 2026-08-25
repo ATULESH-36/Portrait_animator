@@ -50,7 +50,7 @@ Transform portrait photographs into artistic cartoon-style images using **Comput
 
 | Original | Cartoon |
 |----------|----------|
-| ![](examples/inputs/sb11_original.png) | ![](examples/outputs/sb11_cartoon.png) |
+| ![](examples/inputs/car2.jpg) | ![](examples/outputs/portrait_cartoon.png) |
 
 # 🏗️ Project Architecture
 
