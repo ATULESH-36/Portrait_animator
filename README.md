@@ -25,28 +25,24 @@ Transform portrait photographs into artistic cartoon-style images using **Comput
 
 # 🖼️ Example Results
 
+
+
+---
 ## Example 1
 
 | Original | Cartoon |
 |----------|----------|
-| ![](examples/inputs/i3_original.png) | ![](examples/outputs/i3_cartoon.png) |
+| ![](examples/inputs/i3.jpg) | ![](examples/outputs/i3.png) |
 
----
 ## Example 2
 
 | Original | Cartoon |
 |----------|----------|
-| ![](examples/inputs/i19_original.png) | ![](examples/outputs/i19_cartoon.png) |
-
-## Example 3
-
-| Original | Cartoon |
-|----------|----------|
-| ![](examples/inputs/i9_original.png) | ![](examples/outputs/i9_cartoon.png) |
+| ![](examples/inputs/i1jpg.jpg) | ![](examples/outputs/i0.png) |
 
 ---
 
-## Example 4
+## Example 3
 
 | Original | Cartoon |
 |----------|----------|
